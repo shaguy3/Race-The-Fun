@@ -1,2 +1,2 @@
 # Race-The-Fun
-Acoid the obsticles like a bitch
+Avoid the obsticles like a bitch
