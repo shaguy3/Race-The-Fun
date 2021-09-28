@@ -2806,3 +2806,629 @@ AssetImportParameters requested are different than current active one (requested
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 2637.258956 seconds.
+  path: Assets/Scripts/GameLogic/GameInformationManager.cs
+  artifactKey: Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameLogic/GameInformationManager.cs using Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7b7777295b0028fd43df940cf89f584') in 0.011952 seconds 
+  Import took 0.016387 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.567732 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002687933D250 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D9BA060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AC61010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0283D30 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D3F3F30 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687BF5A270 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879014040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268795D8020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF80F070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AB5D010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002684A0CD370 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEFF2DF0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D4BC870 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C45F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CABF020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026874C4E020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AA12470 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC2ECC0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879547040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D3066D0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C077F3A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A6DB720 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF830080 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED6CD20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026874C204B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D3F3F30 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC33A30 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687BF5A270 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687BF5A270 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0280FA0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0DE2EF0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEA8A6F0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F153B80 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.02 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.299 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.65 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 116.2 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2574.
+Total: 3.277400 ms (FindLiveObjects: 0.464400 ms CreateObjectMapping: 0.400600 ms MarkObjects: 2.338100 ms  DeleteObjects: 0.073200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011018 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002687933D250 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D9BA060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AC61010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02814B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF0D4020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878DF1070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879014040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268795D8020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CC9A050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AB5D010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0C1BD80 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEFF4370 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D4BC870 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C45F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687BF54050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED76460 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A231070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC33A30 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879547040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AE3B930 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C077F3A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687915E460 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF830080 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED6F450 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687990D8C0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF0D4020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC33A30 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878DF1070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878DF1070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02814B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0DDD5F0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0293840 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F152680 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.607 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.59 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 116.2 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2578.
+Total: 2.538500 ms (FindLiveObjects: 0.191800 ms CreateObjectMapping: 0.059100 ms MarkObjects: 2.207700 ms  DeleteObjects: 0.078900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008811 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002687D4C0880 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D9BA060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002684A0C0880 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02865B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF0D4020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEF9A040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878FA0010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CC9A050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AB5D010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D506410 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F225F50 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002684A0C0880 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C45F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFEF9010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEC20030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED65090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC35050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879547040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AE3BD80 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C077F3A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687915E460 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFE33020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED735A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEB0EA10 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF0D4020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC35050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02814B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879EB8C00 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C52EAC0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F152680 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.525 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.01 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 116.2 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2582.
+Total: 4.378300 ms (FindLiveObjects: 0.298300 ms CreateObjectMapping: 0.120300 ms MarkObjects: 3.855200 ms  DeleteObjects: 0.102600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010760 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000026878BA10B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D9BA060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002684A0C0880 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02814B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF0D4020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEF9A040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878FA0010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CC9A050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AB5D010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D647540 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEFF2890 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002684A0C0880 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C45F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687DC3C030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878E2C010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC19C60 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC35B60 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879547040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D507290 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C077F3A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CFD3430 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0461020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED70160 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A5E0FE0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF0D4020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC36670 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02874E0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878DF1650 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C549550 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F152680 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.343 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.96 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116.1 MB.
+System memory in use after: 116.2 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2586.
+Total: 4.073300 ms (FindLiveObjects: 0.283900 ms CreateObjectMapping: 0.129900 ms MarkObjects: 3.556800 ms  DeleteObjects: 0.101000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 5372.312739 seconds.
+  path: Assets/Scripts/GameLogic/GameInformationManager.cs
+  artifactKey: Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameLogic/GameInformationManager.cs using Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f68e3e4681799ca1b8e6b5c15d672ea') in 0.010639 seconds 
+  Import took 0.015387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014900 seconds.
+  path: Assets/Scripts/GameLogic/GameInformationManager.cs
+  artifactKey: Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameLogic/GameInformationManager.cs using Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f68e3e4681799ca1b8e6b5c15d672ea') in 0.002776 seconds 
+  Import took 0.006239 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012407 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-0000026878BA10B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D9BA060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D70E030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0281ED0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0018050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0EB3020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D6B6020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878FA0010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CC9A050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AB5D010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEA58080 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C1FC4E0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D70E030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C45F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C1F3020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878E2C010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC19060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC37180 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879547040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D506150 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C077F3A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CFD3430 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879463020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED71B80 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D39D060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0018050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC3A8D0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D70E030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D70E030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0281ED0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878DF2170 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0DAF890 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F152680 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.383 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 125.3 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2590.
+Total: 2.702800 ms (FindLiveObjects: 0.180500 ms CreateObjectMapping: 0.065900 ms MarkObjects: 2.398700 ms  DeleteObjects: 0.056900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 152.954039 seconds.
+  path: Assets/Scripts/GameLogic/GameInformationManager.cs
+  artifactKey: Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameLogic/GameInformationManager.cs using Guid(e45e6c14063bb6b44b03dc39926b6707) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf4d7e83fde5a49b753d097cfef0dc3a') in 0.005601 seconds 
+  Import took 0.009434 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009396 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002687933D250 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D9BA060 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A5D7020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C02865B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0018050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEF9A040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026878FA0010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CC9A050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687AB5D010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687D5545A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C1FCA40 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A5D7020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687C45F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687CFD3430 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C16E7020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BEA57070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC39DC0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879547040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A769610 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C077F3A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687BF5A270 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000026879463020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BED72890 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002687A5E0FE0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0018050 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BFC39DC0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268BF81F090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C0283820 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268745CEFA0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000268C1672260 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002686F153B80 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.560 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2022 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 125.3 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2594.
+Total: 3.238200 ms (FindLiveObjects: 0.213000 ms CreateObjectMapping: 0.076800 ms MarkObjects: 2.877900 ms  DeleteObjects: 0.069400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
