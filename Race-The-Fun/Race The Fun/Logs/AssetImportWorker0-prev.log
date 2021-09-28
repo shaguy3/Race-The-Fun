@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.13f1 (71691879b7f5) revision 7432472'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 16292 MB
+OS: 'Windows 10 Home; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16314 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,61 +11,131 @@ C:\Program Files\Unity\Hub\Editor\2020.3.13f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Roi/Desktop/GitHub/Race-The-Fun/Race-The-Fun/Race The Fun
+C:/Users/גיא/Documents/Repos/Race-The-Fun/Race-The-Fun/Race The Fun
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59029
-Successfully changed project path to: C:/Users/Roi/Desktop/GitHub/Race-The-Fun/Race-The-Fun/Race The Fun
-C:/Users/Roi/Desktop/GitHub/Race-The-Fun/Race-The-Fun/Race The Fun
+65225
+Successfully changed project path to: C:/Users/גיא/Documents/Repos/Race-The-Fun/Race-The-Fun/Race The Fun
+C:/Users/גיא/Documents/Repos/Race-The-Fun/Race-The-Fun/Race The Fun
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 82.72 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 51.22 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Roi/Desktop/GitHub/Race-The-Fun/Race-The-Fun/Race The Fun/Assets
+[Subsystems] Discovering subsystems at path C:/Users/גיא/Documents/Repos/Race-The-Fun/Race-The-Fun/Race The Fun/Assets
+[Subsystems] No descriptors matched for  examples in Assets/MeshingFeaturePlugin/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  inputs in Assets/MeshingFeaturePlugin/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  displays in Assets/MeshingFeaturePlugin/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Assets/MeshingFeaturePlugin/UnitySubsystemsManifest.json
 GfxDevice: creating device client; threaded=0
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce GT 750M (ID=0xfe9)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
     Vendor:   
-    VRAM:     2018 MB
-    Driver:   22.21.13.8205
+    VRAM:     8088 MB
+    Driver:   27.21.14.5638
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56732
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.131400 seconds.
+Registered in 0.001994 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 38.50 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 35.14 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.334 seconds
+- Completed reload, in  1.878 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.007997 seconds.
+Registered in 0.008910 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002407547ED80 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F649010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240756DE040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F538030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F4E7220 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240756DE040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F88E830 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073ECE010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073ECE010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F88E830 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F5203B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F80AB60 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074B1DC20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F5D0340 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074B1DC20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406FE2E010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F538030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073F25E20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406FE2E010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074E0B880 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F51B780 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002407586F030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074B46010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074B23230 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F80E310 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074407230 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073F25E20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002407479FE20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002407479FE20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F538030 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406FB7F5C0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F5203B0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F7DA070 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 39.01 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 36.57 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.930 seconds
+- Completed reload, in  1.214 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.79 ms, found 7 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2005 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 86.9 MB.
-System memory in use after: 87.0 MB.
+Unloading 2034 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.7 MB.
+System memory in use after: 87.8 MB.
 
-Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2447.
-Total: 3.354700 ms (FindLiveObjects: 0.269100 ms CreateObjectMapping: 0.178200 ms MarkObjects: 2.809000 ms  DeleteObjects: 0.097300 ms)
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 2474.
+Total: 2.435800 ms (FindLiveObjects: 0.186800 ms CreateObjectMapping: 0.084400 ms MarkObjects: 2.041300 ms  DeleteObjects: 0.122600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -74,536 +144,135 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png
-  artifactKey: Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Blue.png using Guid(ddcac1fac1f5c8943a30c2ef6b724062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '793d311d58e6be7c04c843573db4bfdf') in 0.220786 seconds 
-  Import took 0.225435 seconds .
+  path: Assets/Content/ThreeD
+  artifactKey: Guid(9677627f90cc647f79b497e9fcf473dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/ThreeD using Guid(9677627f90cc647f79b497e9fcf473dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb065d9edee2e7408e3fd3ef3915e8d') in 0.009480 seconds 
+  Import took 0.012515 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/DinV/Dynamic Space Background/Sprites/Stars-Big_1.png
-  artifactKey: Guid(c6944f9f15bd0ca4087bcdf033f0e162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DinV/Dynamic Space Background/Sprites/Stars-Big_1.png using Guid(c6944f9f15bd0ca4087bcdf033f0e162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184a9ee46d1a938bee1f495aef1a2048') in 0.023495 seconds 
-  Import took 0.027965 seconds .
+  Time since last request: 0.000217 seconds.
+  path: Assets/Content
+  artifactKey: Guid(80d7d8cf1baf749b197232bf30885b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content using Guid(80d7d8cf1baf749b197232bf30885b12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfbfb51aae1453732db4719d8be894e') in 0.005882 seconds 
+  Import took 0.008654 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000205 seconds.
-  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Red.png
-  artifactKey: Guid(35313af049b4a2f42a0325330c51d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Red.png using Guid(35313af049b4a2f42a0325330c51d74a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1398aa40b209d8a49c79624b6b11bb40') in 0.053133 seconds 
-  Import took 0.057390 seconds .
+  Time since last request: 0.000228 seconds.
+  path: Assets/Content/ThreeD/Materials/Obsticle color.mat
+  artifactKey: Guid(2e2f9e2b09b991642bf1f8cc216081a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/ThreeD/Materials/Obsticle color.mat using Guid(2e2f9e2b09b991642bf1f8cc216081a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc71141af6e471d5178e99797adb0342') in 0.141231 seconds 
+  Import took 0.145125 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/DinV/Dynamic Space Background/Sprites/Stars Small_1.png
-  artifactKey: Guid(efe6ce32a6a4408489775c70e5d32f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DinV/Dynamic Space Background/Sprites/Stars Small_1.png using Guid(efe6ce32a6a4408489775c70e5d32f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e099b4ff09a4118470636fa7694b2678') in 0.031083 seconds 
-  Import took 0.035390 seconds .
+  Time since last request: 0.000177 seconds.
+  path: Assets/Content/ThreeD/Materials/Bounds color.mat
+  artifactKey: Guid(c3c0e2532a876534fb2a89731435f73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/ThreeD/Materials/Bounds color.mat using Guid(c3c0e2532a876534fb2a89731435f73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '802901cdbc85f836e7ad4db2ce013654') in 0.012309 seconds 
+  Import took 0.015513 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000223 seconds.
-  path: Assets/DinV/Dynamic Space Background/Sprites/Nebula Aqua-Pink.png
-  artifactKey: Guid(d9b31ebd60af68c469212c1a9f513e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/DinV/Dynamic Space Background/Sprites/Nebula Aqua-Pink.png using Guid(d9b31ebd60af68c469212c1a9f513e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12b8726fa4548b04e8c3de9e2cc52f4') in 0.016006 seconds 
-  Import took 0.018929 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 876.515378 seconds.
-  path: Assets/Scripts/GameLogic
-  artifactKey: Guid(8f7f450ebdef547929533a490fe6bf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic using Guid(8f7f450ebdef547929533a490fe6bf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46944377335ad3521ae1c0564b6934f7') in 0.007978 seconds 
-  Import took 0.012194 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.788174 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a05752d56e4bc9206721704e43987d21') in 0.019063 seconds 
-  Import took 0.022865 seconds .
+  Time since last request: 0.000197 seconds.
+  path: Assets/Content/ThreeD/Materials
+  artifactKey: Guid(951bad711abb54774bb013b62df038bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/ThreeD/Materials using Guid(951bad711abb54774bb013b62df038bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e3430519818267620034c7d6050dd5') in 0.006798 seconds 
+  Import took 0.010323 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.008163 seconds.
+Registered in 0.009046 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002406F73C5A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024078510010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024075439470 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024078216090 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F7CB010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F532010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F510D70 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024075B6A010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073FAB010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002407496E020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240789054A0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockRuntime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406FE61580 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024075439470 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073E52010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.InputSystem.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074B1DC20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240756F7010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F9385C0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.OculusQuestSupport.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F75E450 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024074D28020 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024078895AA0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.TestHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406FE5F040 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024073EB5A20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240742E6010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024077BE5D20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F81BF10 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F7CB010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F75E450 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F532010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002406F532010 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.Interaction.Toolkit.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-0000024078216FC0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002407830AC40 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.ConformanceAutomation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240788FB5D0 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000240752CFE20 doesn't match image C:\Users\גיא\Documents\Repos\Race-The-Fun\Race-The-Fun\Race The Fun\Library\ScriptAssemblies\Unity.XR.OpenXR.Features.MockDriver.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.258 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1995 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.7 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2458.
-Total: 3.187700 ms (FindLiveObjects: 0.246700 ms CreateObjectMapping: 0.221700 ms MarkObjects: 2.638800 ms  DeleteObjects: 0.079600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 562.824171 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93bcfd346bf6dbcf611b630945ef96e2') in 0.008434 seconds 
-  Import took 0.012742 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 257.114054 seconds.
-  path: Assets/Scripts/GameLogic/ObsticleInstantiator.cs
-  artifactKey: Guid(3c479f41abd6cd747946ae9320e31c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/ObsticleInstantiator.cs using Guid(3c479f41abd6cd747946ae9320e31c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42990db86c2dadec8b257f8252ed896a') in 0.008531 seconds 
-  Import took 0.013107 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001019 seconds.
-  path: Assets/Scripts/GameLogic/ObsticleInstantiator.cs
-  artifactKey: Guid(3c479f41abd6cd747946ae9320e31c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/ObsticleInstantiator.cs using Guid(3c479f41abd6cd747946ae9320e31c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42990db86c2dadec8b257f8252ed896a') in 0.002440 seconds 
-  Import took 0.005725 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.034401 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dd3a5f2a14dbc883857f9ba5041c8e4') in 0.005154 seconds 
-  Import took 0.009367 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 154.736909 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715a1265a3b59857fe4f895b5b91c834') in 0.003539 seconds 
-  Import took 0.007447 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 69.806416 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729dcbdccc9fb566afd16287cefea786') in 0.002621 seconds 
-  Import took 0.006168 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.752074 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd9afeb116514a77f968822522bd15a') in 0.002852 seconds 
-  Import took 0.006312 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012443 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.382 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.79 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1994 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.7 MB.
-System memory in use after: 89.8 MB.
-
-Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2461.
-Total: 2.760300 ms (FindLiveObjects: 0.189400 ms CreateObjectMapping: 0.079600 ms MarkObjects: 2.422000 ms  DeleteObjects: 0.068300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008287 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.371 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1995 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2466.
-Total: 3.858600 ms (FindLiveObjects: 0.256300 ms CreateObjectMapping: 0.111600 ms MarkObjects: 3.425900 ms  DeleteObjects: 0.063900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007898 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.192 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1995 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2470.
-Total: 3.092000 ms (FindLiveObjects: 0.253300 ms CreateObjectMapping: 0.165600 ms MarkObjects: 2.603700 ms  DeleteObjects: 0.068300 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 815.531230 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98608311ecc9937909d466bfed5f522d') in 0.006012 seconds 
-  Import took 0.009310 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010602 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.72 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.352 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1995 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2474.
-Total: 3.586600 ms (FindLiveObjects: 0.313600 ms CreateObjectMapping: 0.171200 ms MarkObjects: 2.991900 ms  DeleteObjects: 0.108500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009618 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.384 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1995 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.8 MB.
-System memory in use after: 89.9 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2478.
-Total: 3.620300 ms (FindLiveObjects: 0.319500 ms CreateObjectMapping: 0.121200 ms MarkObjects: 3.095200 ms  DeleteObjects: 0.082800 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 772.007279 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f7b161f8d1b7edabb23b7ef916665c') in 0.006242 seconds 
-  Import took 0.011079 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.026379 seconds.
-  path: Assets/Scripts/GameLogic/BackgroundScroller.cs
-  artifactKey: Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/BackgroundScroller.cs using Guid(eb86b47cffb66d94c926e8a364743339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38f7b161f8d1b7edabb23b7ef916665c') in 0.002702 seconds 
-  Import took 0.006499 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.957239 seconds.
-  path: Assets/Scripts/GameLogic/GyroManager.cs
-  artifactKey: Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/GyroManager.cs using Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f79ebf0e1e376aa0135f03cad5a50d56') in 0.007362 seconds 
-  Import took 0.012160 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007916 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.270 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.51 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1996 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2483.
-Total: 2.809000 ms (FindLiveObjects: 0.164400 ms CreateObjectMapping: 0.078300 ms MarkObjects: 2.488400 ms  DeleteObjects: 0.076400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 965.775104 seconds.
-  path: Assets/Scripts/GameLogic/GyroManager.cs
-  artifactKey: Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/GyroManager.cs using Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e14714c9719421ab5a6ad4c05713d2') in 0.008818 seconds 
-  Import took 0.013317 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001104 seconds.
-  path: Assets/Scripts/GameLogic/GyroManager.cs
-  artifactKey: Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/GyroManager.cs using Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e14714c9719421ab5a6ad4c05713d2') in 0.002985 seconds 
-  Import took 0.005964 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.788734 seconds.
-  path: Assets/Scripts/GameLogic/GyroManager.cs
-  artifactKey: Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/GyroManager.cs using Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53dceee6756326fb45753b3b3a2d516') in 0.005987 seconds 
-  Import took 0.013056 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008345 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.193 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1996 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2487.
-Total: 4.045700 ms (FindLiveObjects: 0.290700 ms CreateObjectMapping: 0.163500 ms MarkObjects: 3.492900 ms  DeleteObjects: 0.097600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 12.523942 seconds.
-  path: Assets/Scripts/GameLogic/GyroManager.cs
-  artifactKey: Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/GyroManager.cs using Guid(178157241b5919045ab892e7509091f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b54b15948185ba72da08a38fcae0da74') in 0.006614 seconds 
-  Import took 0.010050 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 17.005931 seconds.
-  path: Assets/Scripts/GameLogic/MovementManager.cs
-  artifactKey: Guid(633caf69b2b61ef4d8b171d0faa6b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/MovementManager.cs using Guid(633caf69b2b61ef4d8b171d0faa6b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c578f2cc1c1bf00c51a49d8a899190ff') in 0.008010 seconds 
-  Import took 0.011497 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008280 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.386 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1997 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2492.
-Total: 3.864100 ms (FindLiveObjects: 0.251400 ms CreateObjectMapping: 0.156800 ms MarkObjects: 3.359700 ms  DeleteObjects: 0.095000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 885.981157 seconds.
-  path: Assets/Scripts/GameLogic/DeviceRotation.cs
-  artifactKey: Guid(b217d5e31537d484697c6938a861dcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/DeviceRotation.cs using Guid(b217d5e31537d484697c6938a861dcad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af423d956980c8c8da182143a1bbfa53') in 0.014935 seconds 
-  Import took 0.020595 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 329.420348 seconds.
-  path: Assets/Scripts/GameLogic/MovementManager.cs
-  artifactKey: Guid(633caf69b2b61ef4d8b171d0faa6b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/MovementManager.cs using Guid(633caf69b2b61ef4d8b171d0faa6b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '366149dcc2a067e891662b853326457b') in 0.003574 seconds 
-  Import took 0.007119 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008080 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.216 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1998 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2497.
-Total: 3.316200 ms (FindLiveObjects: 0.249400 ms CreateObjectMapping: 0.158500 ms MarkObjects: 2.831000 ms  DeleteObjects: 0.076100 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 47.788567 seconds.
-  path: Assets/Scripts/GameLogic/MovementManager.cs
-  artifactKey: Guid(633caf69b2b61ef4d8b171d0faa6b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameLogic/MovementManager.cs using Guid(633caf69b2b61ef4d8b171d0faa6b364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917f4d0b15d7d46bb74016c3f562a2bb') in 0.006924 seconds 
-  Import took 0.010666 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007807 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.74 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.439 seconds
+- Completed reload, in  1.122 seconds
 Platform modules already initialized, skipping
 Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 1.16 ms, found 7 plugins.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 9 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2002 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
+Unloading 2021 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 115.7 MB.
+System memory in use after: 115.8 MB.
 
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2501.
-Total: 3.134400 ms (FindLiveObjects: 0.274800 ms CreateObjectMapping: 0.111700 ms MarkObjects: 2.675200 ms  DeleteObjects: 0.071600 ms)
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2518.
+Total: 3.434300 ms (FindLiveObjects: 0.214700 ms CreateObjectMapping: 0.084500 ms MarkObjects: 3.047000 ms  DeleteObjects: 0.086200 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -612,125 +281,16 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 14.60 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 29 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 50.9 MB.
-System memory in use after: 51.0 MB.
+Received Import Request.
+  Time since last request: 6324.505850 seconds.
+  path: Assets/Content/ThreeD/Materials/Bounds color.mat
+  artifactKey: Guid(c3c0e2532a876534fb2a89731435f73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content/ThreeD/Materials/Bounds color.mat using Guid(c3c0e2532a876534fb2a89731435f73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b1c861a6c2cc59fb4626d476d00e47b') in 0.212751 seconds 
+  Import took 0.218414 seconds .
 
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2501.
-Total: 4.082100 ms (FindLiveObjects: 0.315800 ms CreateObjectMapping: 0.240400 ms MarkObjects: 3.448100 ms  DeleteObjects: 0.076700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.012440 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.425 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.66 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2002 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2505.
-Total: 3.254300 ms (FindLiveObjects: 0.233600 ms CreateObjectMapping: 0.117900 ms MarkObjects: 2.839500 ms  DeleteObjects: 0.061900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008576 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.76 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.439 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.50 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2002 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2509.
-Total: 3.699400 ms (FindLiveObjects: 0.271000 ms CreateObjectMapping: 0.086700 ms MarkObjects: 3.261500 ms  DeleteObjects: 0.079000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008055 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.333 seconds
-Platform modules already initialized, skipping
-Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
-Refreshing native plugins compatible for Editor in 0.65 ms, found 7 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2002 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 89.9 MB.
-System memory in use after: 90.0 MB.
-
-Unloading 32 unused Assets to reduce memory usage. Loaded Objects now: 2513.
-Total: 2.731500 ms (FindLiveObjects: 0.195800 ms CreateObjectMapping: 0.081300 ms MarkObjects: 2.387900 ms  DeleteObjects: 0.065500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file

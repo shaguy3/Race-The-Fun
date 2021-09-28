@@ -17,7 +17,7 @@ public class ObsticleInstantiator : MonoBehaviour
     [SerializeField]
     private GameObject m_ForthObsticle;
 
-    private List<GameObject> m_obsticles = new List<GameObject>();
+    public List<GameObject> m_obsticles = new List<GameObject>();
 
     private float m_obsticleSpeed;
     private float m_obsticleTimer;
@@ -59,6 +59,11 @@ public class ObsticleInstantiator : MonoBehaviour
             instantiatedObsticle.GetComponent<Rigidbody>().velocity = transform.TransformDirection(Vector3.back * m_obsticleSpeed);
             Destroy(instantiatedObsticle, 10.0f);
         }
+    }
+    
+    public List<GameObject> GetObsticleList()
+    {
+        return m_obsticles;
     }
 
     private void AdvanceLevel()

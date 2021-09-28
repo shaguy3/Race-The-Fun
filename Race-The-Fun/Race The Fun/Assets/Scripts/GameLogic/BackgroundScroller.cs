@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class BackgroundScroller : MonoBehaviour
 {
+    [SerializeField]
+    private GameObject topBG;
 
-    public GameObject topBG;
-    public GameObject botBG;
+    [SerializeField]
+    private GameObject botBG;
     private float size;
 
     private Vector3 topTargetPos = new Vector3();
