@@ -1,5 +1,4 @@
 # Race-The-Fun
-Avoid the obsticles like a bitch
 
 ## Project To-Do:
 - [x] Obsticles generator
